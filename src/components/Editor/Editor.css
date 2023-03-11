@@ -1,0 +1,17 @@
+.editor-wrapper {
+  position: relative;
+}
+
+.content-editable {
+  height: 300px;
+  width: 100%;
+  border: 1px solid #aaa;
+  padding: 5px;
+  position: relative;
+}
+
+.placeholder {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
